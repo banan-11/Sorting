@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Sort_bubbl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{880D4CCC-1030-4D55-93F3-8FBAB0456419}|Sort_bubbl\\Sort_bubbl.csproj|c:\\users\\vld66\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\sort_bubbl\\sort_bubbl\\sort_bubbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880D4CCC-1030-4D55-93F3-8FBAB0456419}|Sort_bubbl\\Sort_bubbl.csproj|solutionrelative:sort_bubbl\\sort_bubbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880D4CCC-1030-4D55-93F3-8FBAB0456419}|Sort_bubbl\\Sort_bubbl.csproj|c:\\users\\vld66\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\sort_bubbl\\sort_bubbl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880D4CCC-1030-4D55-93F3-8FBAB0456419}|Sort_bubbl\\Sort_bubbl.csproj|solutionrelative:sort_bubbl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Program.cs",
+              "RelativeDocumentMoniker": "Sort_bubbl\\Program.cs",
+              "ToolTip": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Program.cs",
+              "RelativeToolTip": "Sort_bubbl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T21:41:45.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sort_bubbl.cs",
+              "DocumentMoniker": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.cs",
+              "RelativeDocumentMoniker": "Sort_bubbl\\Sort_bubbl.cs",
+              "ToolTip": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.cs",
+              "RelativeToolTip": "Sort_bubbl\\Sort_bubbl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T21:43:09.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

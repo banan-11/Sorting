@@ -1,0 +1,14 @@
+C:\Users\vld66\OneDrive\Desktop\Новая папка\Sort_bubbl\Sort_bubbl\bin\Debug\net10.0\Sort_bubbl.exe
+C:\Users\vld66\OneDrive\Desktop\Новая папка\Sort_bubbl\Sort_bubbl\bin\Debug\net10.0\Sort_bubbl.deps.json
+C:\Users\vld66\OneDrive\Desktop\Новая папка\Sort_bubbl\Sort_bubbl\bin\Debug\net10.0\Sort_bubbl.runtimeconfig.json
+C:\Users\vld66\OneDrive\Desktop\Новая папка\Sort_bubbl\Sort_bubbl\bin\Debug\net10.0\Sort_bubbl.dll
+C:\Users\vld66\OneDrive\Desktop\Новая папка\Sort_bubbl\Sort_bubbl\bin\Debug\net10.0\Sort_bubbl.pdb
+C:\Users\vld66\OneDrive\Desktop\Новая папка\Sort_bubbl\Sort_bubbl\obj\Debug\net10.0\Sort_bubbl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vld66\OneDrive\Desktop\Новая папка\Sort_bubbl\Sort_bubbl\obj\Debug\net10.0\Sort_bubbl.AssemblyInfoInputs.cache
+C:\Users\vld66\OneDrive\Desktop\Новая папка\Sort_bubbl\Sort_bubbl\obj\Debug\net10.0\Sort_bubbl.AssemblyInfo.cs
+C:\Users\vld66\OneDrive\Desktop\Новая папка\Sort_bubbl\Sort_bubbl\obj\Debug\net10.0\Sort_bubbl.csproj.CoreCompileInputs.cache
+C:\Users\vld66\OneDrive\Desktop\Новая папка\Sort_bubbl\Sort_bubbl\obj\Debug\net10.0\Sort_bubbl.dll
+C:\Users\vld66\OneDrive\Desktop\Новая папка\Sort_bubbl\Sort_bubbl\obj\Debug\net10.0\refint\Sort_bubbl.dll
+C:\Users\vld66\OneDrive\Desktop\Новая папка\Sort_bubbl\Sort_bubbl\obj\Debug\net10.0\Sort_bubbl.pdb
+C:\Users\vld66\OneDrive\Desktop\Новая папка\Sort_bubbl\Sort_bubbl\obj\Debug\net10.0\Sort_bubbl.genruntimeconfig.cache
+C:\Users\vld66\OneDrive\Desktop\Новая папка\Sort_bubbl\Sort_bubbl\obj\Debug\net10.0\ref\Sort_bubbl.dll
