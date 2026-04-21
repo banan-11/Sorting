@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Sort_bubbl\\",
+  "WorkspaceRootPath": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sort_bubbl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{880D4CCC-1030-4D55-93F3-8FBAB0456419}|Sort_bubbl\\Sort_bubbl.csproj|c:\\users\\vld66\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\sort_bubbl\\sort_bubbl\\sort_bubbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{880D4CCC-1030-4D55-93F3-8FBAB0456419}|Sort_bubbl\\Sort_bubbl.csproj|solutionrelative:sort_bubbl\\sort_bubbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CD14FE2-694B-349F-2BB5-AAD6A8F48D51}|Sort_bubbl\\Sort_bubbl.csproj|c:\\users\\vld66\\onedrive\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\sort_bubbl\\sort_bubbl\\sort_bubbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD14FE2-694B-349F-2BB5-AAD6A8F48D51}|Sort_bubbl\\Sort_bubbl.csproj|solutionrelative:sort_bubbl\\sort_bubbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{880D4CCC-1030-4D55-93F3-8FBAB0456419}|Sort_bubbl\\Sort_bubbl.csproj|c:\\users\\vld66\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\sort_bubbl\\sort_bubbl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{880D4CCC-1030-4D55-93F3-8FBAB0456419}|Sort_bubbl\\Sort_bubbl.csproj|solutionrelative:sort_bubbl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CD14FE2-694B-349F-2BB5-AAD6A8F48D51}|Sort_bubbl\\Sort_bubbl.csproj|c:\\users\\vld66\\onedrive\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\sort_bubbl\\sort_bubbl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD14FE2-694B-349F-2BB5-AAD6A8F48D51}|Sort_bubbl\\Sort_bubbl.csproj|solutionrelative:sort_bubbl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Program.cs",
               "RelativeDocumentMoniker": "Sort_bubbl\\Program.cs",
-              "ToolTip": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Program.cs",
+              "ToolTip": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Program.cs",
               "RelativeToolTip": "Sort_bubbl\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T21:41:45.147Z",
               "EditorCaption": ""
@@ -45,11 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Sort_bubbl.cs",
-              "DocumentMoniker": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.cs",
+              "DocumentMoniker": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.cs",
               "RelativeDocumentMoniker": "Sort_bubbl\\Sort_bubbl.cs",
-              "ToolTip": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.cs",
+              "ToolTip": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.cs",
               "RelativeToolTip": "Sort_bubbl\\Sort_bubbl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T21:43:09.475Z",
               "EditorCaption": ""

@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Program.cs",
-              "RelativeDocumentMoniker": "Sort_bubbl\\Program.cs",
-              "ToolTip": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Program.cs",
-              "RelativeToolTip": "Sort_bubbl\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T21:41:45.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Sort_bubbl.cs",
               "DocumentMoniker": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.cs",
               "RelativeDocumentMoniker": "Sort_bubbl\\Sort_bubbl.cs",
               "ToolTip": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.cs",
               "RelativeToolTip": "Sort_bubbl\\Sort_bubbl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T21:43:09.475Z",
+              "WhenOpened": "2026-04-21T21:14:16.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Program.cs",
+              "RelativeDocumentMoniker": "Sort_bubbl\\Program.cs",
+              "ToolTip": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sort_bubbl\\Sort_bubbl\\Program.cs",
+              "RelativeToolTip": "Sort_bubbl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:14:15.768Z",
               "EditorCaption": ""
             }
           ]

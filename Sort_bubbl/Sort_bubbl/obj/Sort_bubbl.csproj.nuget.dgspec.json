@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vld66\\OneDrive\\Desktop\\Новая папка\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.csproj": {}
+    "C:\\Users\\vld66\\OneDrive\\Desktop\\подготовка\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vld66\\OneDrive\\Desktop\\Новая папка\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.csproj": {
+    "C:\\Users\\vld66\\OneDrive\\Desktop\\подготовка\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vld66\\OneDrive\\Desktop\\Новая папка\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.csproj",
+        "projectUniqueName": "C:\\Users\\vld66\\OneDrive\\Desktop\\подготовка\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.csproj",
         "projectName": "Sort_bubbl",
-        "projectPath": "C:\\Users\\vld66\\OneDrive\\Desktop\\Новая папка\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.csproj",
+        "projectPath": "C:\\Users\\vld66\\OneDrive\\Desktop\\подготовка\\Sort_bubbl\\Sort_bubbl\\Sort_bubbl.csproj",
         "packagesPath": "C:\\Users\\vld66\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vld66\\OneDrive\\Desktop\\Новая папка\\Sort_bubbl\\Sort_bubbl\\obj\\",
+        "outputPath": "C:\\Users\\vld66\\OneDrive\\Desktop\\подготовка\\Sort_bubbl\\Sort_bubbl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
