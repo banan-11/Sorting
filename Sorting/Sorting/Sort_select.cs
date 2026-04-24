@@ -4,10 +4,10 @@ using System.Text;
 
 namespace Sorting
 {
-    internal class Sort_select
+    public class Sort_select : InSorter
     {
 
-        public void SortChoice(int[] num)
+        public void Sort<T>(T[] num) where T : IComparable<T>
         {
 
             // тут цикл 2 цикла, внешний цикл проходит весь массив, внутренний ищет минимальное значение 
@@ -19,9 +19,8 @@ namespace Sorting
                 for (int j = i + 1; j < num.Length; j++)
                 {
                     //обновляет индекс минимального числа если в массиве num[j] число будет меньше
-                    if (num[j] < num[min_index])
+                    if (num[j].CompareTo(num[min_index]) < 0)
                     {
-
                         min_index = j;
                     }
                 }
@@ -29,7 +28,7 @@ namespace Sorting
                 //тут если самый маленький элемент изменился, то число меняется меситами, а если число не изменилось, значит число и так на своем месте и менять ниче не нужно
                 if (min_index != i)
                 {
-                    int save = num[i];
+                    var save = num[i];
                     num[i] = num[min_index];
                     num[min_index] = save;
 
@@ -37,8 +36,22 @@ namespace Sorting
 
             }
 
+        }
+
+        public void Sort<T>(T[] num, string message) where T : IComparable<T>
+        {
+            Sort(num);
+            Console.WriteLine(message);
+
+            foreach (var n in num)
+            {
+
+                Console.Write(n + " ");
+            }
+            Console.WriteLine();
 
 
         }
+
     }
 }

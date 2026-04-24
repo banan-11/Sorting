@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sorting\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE4BEE84-0CA1-D3FD-938B-B23D92CED20F}|Sorting\\Sorting.csproj|c:\\users\\vld66\\onedrive\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\sorting\\sorting\\sort_select.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4BEE84-0CA1-D3FD-938B-B23D92CED20F}|Sorting\\Sorting.csproj|solutionrelative:sorting\\sort_select.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE4BEE84-0CA1-D3FD-938B-B23D92CED20F}|Sorting\\Sorting.csproj|c:\\users\\vld66\\onedrive\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\sorting\\sorting\\sort_bubbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE4BEE84-0CA1-D3FD-938B-B23D92CED20F}|Sorting\\Sorting.csproj|solutionrelative:sorting\\sort_bubbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE4BEE84-0CA1-D3FD-938B-B23D92CED20F}|Sorting\\Sorting.csproj|c:\\users\\vld66\\onedrive\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\sorting\\sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE4BEE84-0CA1-D3FD-938B-B23D92CED20F}|Sorting\\Sorting.csproj|solutionrelative:sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE4BEE84-0CA1-D3FD-938B-B23D92CED20F}|Sorting\\Sorting.csproj|c:\\users\\vld66\\onedrive\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\sorting\\sorting\\insorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4BEE84-0CA1-D3FD-938B-B23D92CED20F}|Sorting\\Sorting.csproj|solutionrelative:sorting\\insorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE4BEE84-0CA1-D3FD-938B-B23D92CED20F}|Sorting\\Sorting.csproj|c:\\users\\vld66\\onedrive\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\sorting\\sorting\\sort_select.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE4BEE84-0CA1-D3FD-938B-B23D92CED20F}|Sorting\\Sorting.csproj|solutionrelative:sorting\\sort_select.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE4BEE84-0CA1-D3FD-938B-B23D92CED20F}|Sorting\\Sorting.csproj|c:\\users\\vld66\\onedrive\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\sorting\\sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4BEE84-0CA1-D3FD-938B-B23D92CED20F}|Sorting\\Sorting.csproj|solutionrelative:sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sorting\\Sorting\\Program.cs",
+              "RelativeDocumentMoniker": "Sorting\\Program.cs",
+              "ToolTip": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sorting\\Sorting\\Program.cs",
+              "RelativeToolTip": "Sorting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:18:35.74Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InSorter.cs",
+              "DocumentMoniker": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sorting\\Sorting\\InSorter.cs",
+              "RelativeDocumentMoniker": "Sorting\\InSorter.cs",
+              "ToolTip": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sorting\\Sorting\\InSorter.cs",
+              "RelativeToolTip": "Sorting\\InSorter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T20:45:44.194Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -34,41 +66,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sorting\\Sorting\\Program.cs",
-              "RelativeDocumentMoniker": "Sorting\\Program.cs",
-              "ToolTip": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sorting\\Sorting\\Program.cs",
-              "RelativeToolTip": "Sorting\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T14:18:35.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Sort_bubbl.cs",
-              "DocumentMoniker": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sorting\\Sorting\\Sort_bubbl.cs",
-              "RelativeDocumentMoniker": "Sorting\\Sort_bubbl.cs",
-              "ToolTip": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sorting\\Sorting\\Sort_bubbl.cs",
-              "RelativeToolTip": "Sorting\\Sort_bubbl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T14:18:36.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Sort_select.cs",
               "DocumentMoniker": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sorting\\Sorting\\Sort_select.cs",
               "RelativeDocumentMoniker": "Sorting\\Sort_select.cs",
               "ToolTip": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sorting\\Sorting\\Sort_select.cs",
               "RelativeToolTip": "Sorting\\Sort_select.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T14:19:31.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sort_bubbl.cs",
+              "DocumentMoniker": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sorting\\Sorting\\Sort_bubbl.cs",
+              "RelativeDocumentMoniker": "Sorting\\Sort_bubbl.cs",
+              "ToolTip": "C:\\Users\\vld66\\OneDrive\\Desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\Sorting\\Sorting\\Sort_bubbl.cs",
+              "RelativeToolTip": "Sorting\\Sort_bubbl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:18:36.553Z",
               "EditorCaption": ""
             }
           ]

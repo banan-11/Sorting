@@ -1,14 +1,15 @@
-﻿using System;
+﻿using Sorting;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Sort_bubbl
+namespace Sorting
 {
-    public class Sort_bubbl
+    public class Sort_bubbl : InSorter
     {
         //Создал публичный метод SortBubble с generics работающий с любыми данными T
         //where T : IComparable<T> ограничение которое разрешает использовать метод CompareTo
-        public void SortBubble<T>(T[] num) where T : IComparable<T>
+        public void Sort<T>(T[] num) where T : IComparable<T>
         {
             //Создал 2 цикла, внешний цикл проходит весь массив, а внутренний сравнивает соседние числа 
             for (int i = 0; i < num.Length; i++)
@@ -29,7 +30,19 @@ namespace Sort_bubbl
             }
         }
 
+        // 2 метод для перегрузки, если отправляется массив и текст то итог выводится 
+        public void Sort<T>(T[] num, string message) where T : IComparable<T>
+        {
+            Sort(num);
+            Console.WriteLine(message);
 
+            foreach (var n in num)
+            {
 
+                Console.Write(n + " ");
+            }
+            Console.WriteLine();
+
+        }
     }
 }
