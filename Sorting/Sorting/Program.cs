@@ -1,4 +1,5 @@
 ﻿using Sorting;
+using System.Collections;
 
 namespace Sorting
 {
@@ -13,16 +14,43 @@ namespace Sorting
             Console.Write("ваш выбор: ");
 
         }
-     
-        //Создал одномерный массив 
+
+        static void Print(int[] num, string[] stringMass, char[] charMass)
+        {
+
+            foreach (int i in num)
+            {
+                Console.Write(i + " ");
+            }
+            Console.WriteLine(" ");
+
+            foreach (string i in stringMass)
+            {
+                Console.Write(i + " ");
+            }
+            Console.WriteLine(" ");
+
+            foreach (char i in charMass)
+            {
+                Console.Write(i + " ");
+            }
+            Console.WriteLine(" ");
+
+        }
+
+
+
+        //Создал одномерный массив типа int, string и char
         static int[] num = new int[] { 3, 4, 2, 1, 5, 8, 10, 6 };
+        static string[] stringMass = { "что-то там", "обезьянка", "банан" };
+        static char[] charMass = { 'l', 'a', 'b', 'q' };
 
         static void Main(string[] args)
         {
             showmenu();
             byte choice = byte.Parse(Console.ReadLine());
 
-            InSorter sorter = null;
+
 
             switch (choice)
             {
@@ -33,33 +61,35 @@ namespace Sorting
                     Console.ReadLine();
                     return;
 
-                // в кейсах записываются пути в sorter
+
                 case 1:
-                    sorter = new Sort_bubbl(); 
+                    Console.WriteLine("Сортировка пузырем");
+                    Console.WriteLine(" ");
+
+                    Sort_bubbl sorterb = new Sort_bubbl();
+                    sorterb.Sort(num);
+                    sorterb.Sort(stringMass);
+                    sorterb.Sort(charMass);
+                    Print(num, stringMass, charMass);
 
                     break;
 
 
                 case 2:
-                    sorter = new Sort_select();
+                    Console.WriteLine("Сортировка выборкой");
+                    Console.WriteLine(" ");
+
+                    Sort_select sorters = new Sort_select();
+                    sorters.Sort(num);
+                    sorters.Sort(stringMass);
+                    sorters.Sort(charMass);
+                    Print(num, stringMass, charMass);
 
                     break;
 
             }
 
-            //если sorter поменялась и теперь не ровна null то выводится итог
-            if (sorter != null)
-            {
 
-                sorter.Sort(num, "Итог:");
-
-            }
-
-            else
-            {
-                Console.WriteLine("не та цифра");
-
-            }
 
         }
     }
